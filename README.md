@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/om-1980/om-1980/assets/111452597/a8b89d99-b4f8-4091-9687-f361f683768a" alt="logo" width="100%" height="250">
 </p>
-<h1 align="center">Hi 👋, I'm Ashutosh Tiwarir</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">Crafting Code, Shaping Solutions, and Embracing the Art of Continuous Learning! 🚀💻✨</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
